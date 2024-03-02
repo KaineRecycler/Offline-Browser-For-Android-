@@ -1,12 +1,12 @@
 # Offline Website Browser
 
 This is a very simple app for Android allows users to browse a offline website without Internet connection.
-
+but it is all offline.
 ## Use
 
 1 first download a website from either the web or web archive.
 2 compress the full website into a zip file.
-3 open offline website by sharing access from Google drive app.
+3 open offline website by allowing sharing access from Google drive app.
 4 browse and interact with your offline website without Internet connection.
 
 

@@ -18,9 +18,9 @@ Have on your android device.
   this browser features searching browsing and interacting back and forward navigation arrows on the top left corner.
   clicking on and playing video and audio pinch and zoom on page and a browsing history section for viewing 
 
-- [Delete a file](app://foss.zip.offline.browser.offlinezipbrowser/action/delete-file)
-- [Rename a file](app://foss.zip.offline.browser.offlinezipbrowser/action/rename-file)
-  
+- [Delete a file](app://foss.website.offline.browser.offlinewebsitebrowser/action/delete-file)
+- [Rename a file](app://foss.website.offline.browser.offlinewebsitebrowser/action/Rename-file)
+- [Download Wacz file](app://foss.website.offline.browser.offlinewebsitebrowser/action/download-wacz-file)
 
 ### `RENAME_FILE`
 
@@ -30,3 +30,7 @@ rename a file
 
 delete a file
 
+
+### `DOWNLOAD_A_WACZ_FILE`
+
+download a wacz file

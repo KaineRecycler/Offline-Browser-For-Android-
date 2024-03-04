@@ -20,7 +20,7 @@ Have on your android device.
 
 - [Delete a file](app://foss.website.offline.browser.offlinewebsitebrowser/action/delete-file)
 - [Rename a file](app://foss.website.offline.browser.offlinewebsitebrowser/action/Rename-file)
-- [Download Wacz file](app://foss.website.offline.browser.offlinewebsitebrowser/action/download-wacz-file)
+- [Download a Wacz file](app://foss.website.offline.browser.offlinewebsitebrowser/action/download-wacz-file)
 
 ### `RENAME_FILE`
 
